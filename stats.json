@@ -1,0 +1,74 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-bab387a99affe7b1f993.js",
+      "component---src-pages-index-js-bab387a99affe7b1f993.js.map"
+    ],
+    "path---": [
+      "path----131f9aef94525eeb6ecd.js",
+      "path----131f9aef94525eeb6ecd.js.map"
+    ],
+    "path---clients": [
+      "path---clients-959b3fa8e5e3911490f8.js",
+      "path---clients-959b3fa8e5e3911490f8.js.map"
+    ],
+    "path---faq": [
+      "path---faq-65c5b6e42cca383a7978.js",
+      "path---faq-65c5b6e42cca383a7978.js.map"
+    ],
+    "path---exchanges": [
+      "path---exchanges-aedddb7d2831cb4c5e86.js",
+      "path---exchanges-aedddb7d2831cb4c5e86.js.map"
+    ],
+    "path---projects": [
+      "path---projects-44917730f01d3f184af6.js",
+      "path---projects-44917730f01d3f184af6.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-b329a5a491a2823e1493.js",
+      "component---src-layouts-index-js-b329a5a491a2823e1493.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---wallets": [
+      "path---wallets-15496360a031353c4d8b.js",
+      "path---wallets-15496360a031353c4d8b.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-fbc9633fc2915bf12a96.js",
+      "commons-fbc9633fc2915bf12a96.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-templates-info-js": [
+      "component---src-templates-info-js-b14da2bab9e653dac1a3.js",
+      "component---src-templates-info-js-b14da2bab9e653dac1a3.js.map"
+    ],
+    "component---src-layouts-landing-page-js": [
+      "component---src-layouts-landing-page-js-fc3f77cda9bb01084f71.js",
+      "component---src-layouts-landing-page-js-fc3f77cda9bb01084f71.js.map"
+    ],
+    "app": [
+      "app-2ea6b46ccace7dae0a3a.js",
+      "build-js-styles.css",
+      "app-2ea6b46ccace7dae0a3a.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---services": [
+      "path---services-eb6c0a51d577ce4ad221.js",
+      "path---services-eb6c0a51d577ce4ad221.js.map"
+    ]
+  }
+}
