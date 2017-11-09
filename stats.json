@@ -9,20 +9,20 @@
       "path----131f9aef94525eeb6ecd.js.map"
     ],
     "path---clients": [
-      "path---clients-959b3fa8e5e3911490f8.js",
-      "path---clients-959b3fa8e5e3911490f8.js.map"
+      "path---clients-0a5bfeb9889ed3b7b559.js",
+      "path---clients-0a5bfeb9889ed3b7b559.js.map"
     ],
     "path---faq": [
       "path---faq-65c5b6e42cca383a7978.js",
       "path---faq-65c5b6e42cca383a7978.js.map"
     ],
     "path---exchanges": [
-      "path---exchanges-aedddb7d2831cb4c5e86.js",
-      "path---exchanges-aedddb7d2831cb4c5e86.js.map"
+      "path---exchanges-577bc00c305d74bc4740.js",
+      "path---exchanges-577bc00c305d74bc4740.js.map"
     ],
     "path---projects": [
-      "path---projects-44917730f01d3f184af6.js",
-      "path---projects-44917730f01d3f184af6.js.map"
+      "path---projects-b8b379202cafc5aa0386.js",
+      "path---projects-b8b379202cafc5aa0386.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-b329a5a491a2823e1493.js",
@@ -33,8 +33,8 @@
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---wallets": [
-      "path---wallets-15496360a031353c4d8b.js",
-      "path---wallets-15496360a031353c4d8b.js.map"
+      "path---wallets-df9a7ab0b3ebb687d75c.js",
+      "path---wallets-df9a7ab0b3ebb687d75c.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -57,9 +57,9 @@
       "component---src-layouts-landing-page-js-fc3f77cda9bb01084f71.js.map"
     ],
     "app": [
-      "app-80072646bdae61075d29.js",
+      "app-2ea6b46ccace7dae0a3a.js",
       "build-js-styles.css",
-      "app-80072646bdae61075d29.js.map",
+      "app-2ea6b46ccace7dae0a3a.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
@@ -67,8 +67,8 @@
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---services": [
-      "path---services-eb6c0a51d577ce4ad221.js",
-      "path---services-eb6c0a51d577ce4ad221.js.map"
+      "path---services-de02254af5ed0d7b7936.js",
+      "path---services-de02254af5ed0d7b7936.js.map"
     ]
   }
 }
